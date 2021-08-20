@@ -1,0 +1,19 @@
+name,ring,quadrant,isNew,description
+Pentaho,Trial,Language/Framework,FALSE,"<p>Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming. The language has a strong static type system. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java.<p>"
+Resilience 4J,Trial,Language/Framework,FALSE,"<p>Resilience4j is a lightweight, easy-to-use fault tolerance library inspired by Netflix Hystrix, but designed for Java 8 and functional programming</p>"
+Spring Cloud Gateway,Trial,Language/Framework,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+Reactive Streams,Trial,Language/Framework,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+Functional Programming (Lambda),Trial,Language/Framework,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+Apache Beam,Trial,Language/Framework,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+Scikit Learn,Trial,Language/Framework,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+Computer Vision,Trial,Tool,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+Tensorflow,Trial,Language/Framework,FALSE,"<p>JAVA 8 is a major feature release of JAVA programming language development. Its initial version was released on 18 March 2014. With the Java 8 release, Java provided supports for functional programming, new JavaScript engine, new APIs for date time manipulation, new streaming API, etc.<p>"
+MLOps,Trial,Technique,FALSE,
+Oracle Cloud,Trial,Platform,FALSE,
+Observability,Trial,Technique,FALSE,
+Katalon Studio,Trial,Tool,TRUE,
+BDD,Trial,Technique,FALSE,
+Cypress ,Trial,Tool,TRUE,
+React JS,Trial,Language/Framework,FALSE,
+NodeJS,Trial,Language/Framework,FALSE,
+Responsive Web Designs,Trial,Technique,FALSE,
