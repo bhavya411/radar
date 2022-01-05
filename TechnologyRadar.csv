@@ -22,7 +22,7 @@ Scala3 - Scala Studio,Trial,Language/Framework,TRUE,"<p>Scala 3 is a complete ov
 Sentry - Scala Studio,Trial,Tool,FALSE,"<p>Sentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application. Focus on Scala API.</p>"
 Spring Reactor[Core] - Java Studio,Trial,Language/Framework,TRUE,"<p>Reactor is a fourth-generation reactive library, based on the Reactive Streams specification, for building non-blocking applications on the JVM.It directly interacts with Java's functional API, CompletableFuture, Stream, and Duration.</p>"
 Vertx - Java Studio,Trial, Tool,TRUE,"<p>Vert.x is an open source, reactive and polyglot software development toolkit from the developers of Eclipse. Reactive programming is a programming paradigm, associated with asynchronous streams, which respond to any changes or events.</p>"
-GCP DataFlow Runner - Java Studio , Adopt,FALSE,"<p>Google Cloud Dataflow is a cloud-based data processing service for both batch and real-time data streaming applications.</p>"
-GCP Biq Query - Java Studio, Adopt,TRUE,"<p>BigQuery is Google Cloud's fully managed, petabyte-scale, and cost-effective analytics data warehouse that lets you run analytics over vast amounts of data in near real time. It require no infrastructure to set up or manage and focus on finding meaningful insights using standard SQL</p>"
+GCP DataFlow Runner - Java Studio , Adopt, Tool, FALSE,"<p>Google Cloud Dataflow is a cloud-based data processing service for both batch and real-time data streaming applications.</p>"
+GCP Biq Query - Java Studio, Adopt,Language/Framework, TRUE,"<p>BigQuery is Google Cloud's fully managed, petabyte-scale, and cost-effective analytics data warehouse that lets you run analytics over vast amounts of data in near real time. It require no infrastructure to set up or manage and focus on finding meaningful insights using standard SQL</p>"
 
 
