@@ -1,19 +1,19 @@
-name,ring,quadrant,isNew,description
-"C#",adopt,"Languages and Frameworks",true,"<a href='https://docs.microsoft.com/en-us/dotnet/csharp/'>C#</a> is our language of choice. It's strongly-typed, blends functional and object-oriented programming and works on all the OS we need to support."
-"Go",trial,"Languages and Frameworks",true,"<a href='https://golang.org/'>Go</a> is the natural language to use when extending Kubernetes with operators."
-"Java",assess,"Languages and Frameworks",true,"Redgate purchased Flyway, written in <a href='https://www.oracle.com/java/'>Java</a>. Java is a plausible choice for new products (due to its rich ecosystem), but we default to C#."
-"PowerShell",hold,"Languages and Frameworks",true,"Don't use PowerShell for new projects - prefer Bash."
-"Visual Studio",adopt,"Tools",true,"Visual Studio is our default IDE for developing in C#. We get the Enterprise edition via our MSDN subscription."
-"Rider",assess,"Tools",true,"Many teams use Rider instead of Visual Studio for their development. We have licences for it."
-"VS Code",adopt,"Tools",true,"A free lightweight IDE. Our text editor of choice."
-"GitHub",trial,"Tools",true,"All development should use GitHub."
-"TeamCity",hold,"Tools",true,"TeamCity is our default build system."
-"Windows",adopt,"Platforms",true,"Windows must be one of our supported target platforms."
-"Linux x64 (.NET supported versions)",trial,"Platforms",true,"Linux must be one of our supported target platforms."
-"macOS",assess,"Platforms",true,"MacOS must be one of our supported target platforms."
-"Virtual Machines",hold,"Platforms",true,"Prefer using lightweight Docker containers."
-"CLIs",adopt,"Techniques",true,"Product should, where possible, expose funtionality via a CLI."
-"RESTful APIs",assess,"Techniques",true,"A REST architetural style is our default choice for building web APIs. Deviations can be made when it makes sense to do so."
-"Containerised products",assess,"Techniques",true,"Where possible, all new products should be built to be containerised. We should ship the Mac/Linux versions of our products inside Docker containers."
-"Infrastructure as code",hold,"Techniques",true,"Infrastructure should be provisioned through code rather than manually (except for ad-hoc testing)"
-"Automated code style settings",trial,"Techniques",true,"Codebases should be formatted consistently. Automated code-style settings achieve this without fuss."
+name,ring,quadrant,isNew,description,studio,quarter
+"C#",adopt,"Languages and Frameworks",true,"<a href='https://docs.microsoft.com/en-us/dotnet/csharp/'>C#</a> is our language of choice. It's strongly-typed, blends functional and object-oriented programming and works on all the OS we need to support.",,
+"Go",trial,"Languages and Frameworks",true,"<a href='https://golang.org/'>Go</a> is the natural language to use when extending Kubernetes with operators.",,
+"Java",assess,"Languages and Frameworks",true,"Redgate purchased Flyway, written in <a href='https://www.oracle.com/java/'>Java</a>. Java is a plausible choice for new products (due to its rich ecosystem), but we default to C#.",,
+"PowerShell",hold,"Languages and Frameworks",true,"Don't use PowerShell for new projects - prefer Bash.",,
+"Visual Studio",adopt,"Tools",true,"Visual Studio is our default IDE for developing in C#. We get the Enterprise edition via our MSDN subscription.",,
+"Rider",assess,"Tools",true,"Many teams use Rider instead of Visual Studio for their development. We have licences for it.",,
+"VS Code",adopt,"Tools",true,"A free lightweight IDE. Our text editor of choice.",,
+"GitHub",trial,"Tools",true,"All development should use GitHub.",,
+"TeamCity",hold,"Tools",true,"TeamCity is our default build system.",,
+"Windows",adopt,"Platforms",true,"Windows must be one of our supported target platforms.",,
+"Linux x64 (.NET supported versions)",trial,"Platforms",true,"Linux must be one of our supported target platforms.",,
+"macOS",assess,"Platforms",true,"MacOS must be one of our supported target platforms.",,
+"Virtual Machines",hold,"Platforms",true,"Prefer using lightweight Docker containers.",,
+"CLIs",adopt,"Techniques",true,"Product should, where possible, expose funtionality via a CLI.",,
+"RESTful APIs",assess,"Techniques",true,"A REST architetural style is our default choice for building web APIs. Deviations can be made when it makes sense to do so.",,
+"Containerised products",assess,"Techniques",true,"Where possible, all new products should be built to be containerised. We should ship the Mac/Linux versions of our products inside Docker containers.",,
+"Infrastructure as code",hold,"Techniques",true,"Infrastructure should be provisioned through code rather than manually (except for ad-hoc testing)",,
+"Automated code style settings",trial,"Techniques",true,"Codebases should be formatted consistently. Automated code-style settings achieve this without fuss.",,
